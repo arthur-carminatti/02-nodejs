@@ -7,7 +7,7 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-tmp/app.db
+db/app.db
 
 node_modules
 dist
